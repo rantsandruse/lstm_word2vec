@@ -20,4 +20,5 @@ Feel free to go beyond this tutorial and experiment with different settings, and
 
 Anyways, hope you have fun with BOW/BOP and beyond! Please leave me a comment if you find this tutorial useful, or if there's something you'd like to see improve on. 
 
+Note: The working version of this code employs gensim version 0.12.4. Some tweaking may be needed if you are using a later version. 
 
